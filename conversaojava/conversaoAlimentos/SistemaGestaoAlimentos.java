@@ -1,4 +1,4 @@
-package conversaojava;
+package conversaoAlimentos;
 
 import java.util.Scanner;
 
